@@ -1,0 +1,21 @@
+﻿AIRLINE,STATUS,CITY,AMOUNT
+ALASKA,ontime,Los Angeles,497
+ALASKA,ontime,Phoenix,221
+ALASKA,ontime,San Diego,212
+ALASKA,ontime,San Francisco,503
+ALASKA,ontime,Seattle,1841
+ALASKA,delayed,Los Angeles,62
+ALASKA,delayed,Phoenix,12
+ALASKA,delayed,San Diego,20
+ALASKA,delayed,San Francisco,102
+ALASKA,delayed,Seattle,305
+AM WEST,ontime,Los Angeles,694
+AM WEST,ontime,Phoenix,4840
+AM WEST,ontime,San Diego,383
+AM WEST,ontime,San Francisco,320
+AM WEST,ontime,Seattle,201
+AM WEST,delayed,Los Angeles,117
+AM WEST,delayed,Phoenix,415
+AM WEST,delayed,San Diego,65
+AM WEST,delayed,San Francisco,129
+AM WEST,delayed,Seattle,61
